@@ -2,7 +2,7 @@
 Import collection in Postman
 
 # GET
--Getting task for connector
+- Getting task for connector
 
 # POST
 - Create a connector
