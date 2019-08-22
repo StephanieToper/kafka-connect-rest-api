@@ -4,8 +4,8 @@ Import collection in Postman
 # GET
 -Getting task for connector
 
-#POST
--Create a connector
+# POST
+- Create a connector
 - Restarting a task
 
 # DEL
