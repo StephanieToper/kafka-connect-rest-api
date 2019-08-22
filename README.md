@@ -8,8 +8,8 @@ Import collection in Postman
 -Create a connector
 - Restarting a task
 
-#DEL
+# DEL
 - Connector
 
-#PUT
+# PUT
 - Update connector configuration
